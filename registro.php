@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-<<<<<<< Updated upstream
-	<title>Registro</title>
-</head>
-<body>
-	<div>
-	
+<div class="form-control">
 	<h1>Registro</h1>
 
 	<form class="formulario" method="POST" action="#">
@@ -29,14 +20,4 @@
 		<input type="button" value="Registrar">
 
 	</form>
-
 </div>
-
-=======
-	<title>Document</title>
-</head>
-<body>
-	
->>>>>>> Stashed changes
-</body>
-</html>

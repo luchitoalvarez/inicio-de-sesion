@@ -27,7 +27,7 @@
                 <li> <a href="#"><span class=" glyphicon glyphicon-education" aria-hidden="true">  </span> Comentar</a></li>             
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              
+
                 <li> <a href="#"><span class=" glyphicon glyphicon-log-in" aria-hidden="true">  </span> Iniciar sesion</a> </li>
 
                 <li> <a href="#"><span class=" glyphicon glyphicon-plus-sign" aria-hidden="true">  </span> Registro</a></li> 
@@ -35,7 +35,9 @@
         </div>
     </div>
 </nav>
-
+<?php
+  include_once "registro.php";
+?>
 </body>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
